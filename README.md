@@ -15,10 +15,6 @@ My name is Om Agrawal, and I am studying CS at UT Austin.
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-<!-- Advanced Java, Intermediate HTML, Intermediate CSS, Intermediate JavaScript,
-Basic Python, Intermediate Git, Intermediate Command Prompt, Advanced Microsoft Visual Studio Code IDE,
-Intermediate Android Studio -->
-
 
 <!--
 **oxa5120/oxa5120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
