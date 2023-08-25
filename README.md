@@ -1,6 +1,6 @@
 ### Hey! 👋
 My name is Om Agrawal, and I am studying CS at UT Austin. 
-- coursework: Opeating Systems | Computer Architecture | Data Structures | Discrete Mathematics | Python Programming
+- coursework: Operating Systems | Computer Architecture | Data Structures | Discrete Mathematics | Python Programming
 - languages: 
 ![Java](https://img.shields.io/badge/-Java-000000?&style=flat&logo=java&logoColor=F05032&labelColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
