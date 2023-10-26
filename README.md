@@ -1,6 +1,6 @@
 ### Hey! 👋
 My name is Om Agrawal, and I am studying CS at UT Austin. 
-- coursework: Operating Systems | Computer Architecture | Data Structures | Discrete Mathematics | Python Programming
+- coursework: `Operating Systems | Computer Architecture | Data Structures | Discrete Mathematics | Python Programming`
 - Languages: `Objective C, c++, Java, Python, HTML, CSS, JavaScript, TypeScript, ARM Assembly, Ruby, SQL`  
 - Frameworks: `ReactJS, NodeJS, AngularJS, Flask, Flutter, Firebase, Docker, Kubernetes, AWS S3, Linux, Android Studio, Bootstrap, Jekyll, Git`  
 - ML libraries: `TensorFlow, Keras, NumPy, Pandas, SciKit-Learn`   
