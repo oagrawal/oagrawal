@@ -1,42 +1,29 @@
 # Hey! 👋  
-My name is **Om Agrawal**, and I am studying Computer Science at **UT Austin**.  
+I’m **Om Agrawal**, a Computer Science student at **UT Austin**.  
 
-I am currently working on designing a **resource allocation mechanism** to reduce the variability in encoding time for input modalities, minimizing pipeline bubbles in multimodal AI models as part of the **UT Networked Systems research group**. Additionally, I am collaborating with the **Federal Aviation Administration**, developing algorithms and data science tools to detect GPS anomalies. Previously, I served as a **Teaching Assistant** for Discrete Mathematics in the Department of Computer Science at UT Austin.
-
----
-
-## **Relevant Coursework**
-- Data Structures & Algorithms  
-- Operating Systems  
-- Computer Architecture  
-- Concurrency: Honors  
-- Databases  
-- Machine Learning  
-- Systems for ML  
-- Quantum Info Science: Honors  
-- Linear Algebra  
-- Discrete Mathematics  
-- Probability  
+I’m developing a **resource allocation mechanism** to optimize encoding time and reduce pipeline bubbles in multimodal AI models with the **UT Networked Systems research group**. I also work with the **Federal Aviation Administration** on algorithms and tools for detecting GPS anomalies. Previously, I was a **Teaching Assistant** for Discrete Mathematics at UT Austin.
 
 ---
 
-## **Technical Skills**
+## **Coursework**
+- Data Structures & Algorithms, Operating Systems, Computer Architecture, Concurrency: Honors  
+- Machine Learning, Systems for ML, Databases, Quantum Info Science: Honors  
+
+---
+
+## **Skills**
 
 ### **Languages**
-- Python, Java, C, C++, Golang, R, JavaScript, Dart, SQL  
+Python, Java, C, C++, Golang, R, JavaScript, Dart, SQL  
 
-### **Frameworks**
-- React.js, Flutter, Flask, Node.js, Kepler.gl, Streamlit, Bootstrap, Jekyll  
-
-### **Libraries**
-- LangChain, SciKit-Learn, TensorFlow, PyTorch, Pandas  
+### **Frameworks & Libraries**
+React.js, Flutter, Flask, Node.js, TensorFlow, PyTorch, LangChain  
 
 ### **Tools**
-- Git, Supabase, Firebase, Pinecone, ChromaDB, AWS (S3, SageMaker)  
-- Docker, MySQL, SQLite, CUDA  
+Git, Docker, AWS (S3, SageMaker), Supabase, Firebase, MySQL  
 
 ---
 
 ## **Certifications**
-- [“DeepLearning.AI TensorFlow Developer Professional Certificate” on Coursera](https://drive.google.com/file/d/1fdXHl5uYvam5Oyq3fcYQz--cadqHbL1y/view?usp=sharing)  
-- “Machine Learning with Python” on freeCodeCamp
+- [DeepLearning.AI TensorFlow Developer Certificate](https://drive.google.com/file/d/1fdXHl5uYvam5Oyq3fcYQz--cadqHbL1y/view?usp=sharing)  
+- Machine Learning with Python (freeCodeCamp)
