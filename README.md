@@ -6,12 +6,9 @@ I’m developing a **resource allocation mechanism** to optimize encoding time a
 ---
 
 ## **Coursework**
-- Data Structures & Algorithms, Operating Systems, Computer Architecture, Concurrency: Honors  
-- Machine Learning, Systems for ML, Databases, Quantum Info Science: Honors  
+- Data Structures & Algorithms, Operating Systems, Computer Architecture, Concurrency: Honors, Machine Learning, Systems for ML, Databases, Quantum Info Science: Honors  
 
 ---
-
-## **Skills**
 
 ### **Languages**
 Python, Java, C, C++, Golang, R, JavaScript, Dart, SQL  
