@@ -9,14 +9,13 @@ I’m developing a **resource allocation mechanism** to optimize encoding time a
 - Data Structures & Algorithms, Operating Systems, Computer Architecture, Concurrency: Honors, Databases, Machine Learning, Systems for ML, Quantum Info Science: Honors, Linear Algebra, Discrete Mathematics, Probability
 ---
 
-### **Languages**
-Python, Java, C, C++, Golang, R, JavaScript, Dart, SQL  
+**Languages**: Python, Java, C, C++, Golang, R, JavaScript, Dart, SQL
 
-### **Frameworks & Libraries**
-React.js, Flutter, Flask, Node.js, TensorFlow, PyTorch, LangChain  
+**Frameworks**: React.js, Flutter, Flask, Node.js, Kepler.gl, Streamlit, Bootstrap, Jekyll
 
-### **Tools**
-Git, Docker, AWS (S3, SageMaker), Supabase, Firebase, MySQL  
+**Libraries**: LangChain, SciKit-Learn, TensorFlow, PyTorch, Pandas
+
+**Tools**: Git, Supabase, Firebase, Pinecone, ChromaDB, AWS (S3, SageMaker), Docker, MySQL, SQLite, CUDA
 
 ---
 
