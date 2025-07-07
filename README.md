@@ -1,7 +1,7 @@
 # Hey! 👋  
 I’m **Om Agrawal**, a Computer Science student at **UT Austin**.
 
-With the **UT Networked Systems research group**, I am analyzing the processing time of video generation (diffusion) models and optimizing batching for mixed-dimension inputs. At **ForeFlight**, I developed a unified networking protocol to standardize communication across hardware devices. Previously, I worked with the **Federal Aviation Administration** on algorithms to detect GPS anomalies and was a **Teaching Assistant** for Discrete Mathematics at UT Austin.
+With the **UT Networked Systems Reserach Group**, I currently analyze the processing time of open-source video diffusion models relative to input/output image sizes and text token length. I also investigate batching support and optimize the handling of mixed-dimension batches in diffusion model workflows. At **ForeFlight**, I am developing a unified networking protocol to standardize communication across hardware devices. Previously, I worked with the **Federal Aviation Administration** on algorithms to detect GPS anomalies and was a **Teaching Assistant** for Discrete Mathematics at UT Austin.
 
 ---
 
