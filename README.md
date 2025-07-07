@@ -8,10 +8,8 @@ With the **UT Networked Systems Reserach Group**, I currently analyze the proces
 ## 🛠️ Skills
 
 ### Programming Languages  
-**Python**, **Java**, **C**, **C++**, **Golang**, **Rust**, **R**, **JavaScript**, **Dart**, **SQL**
+Python, Java, C, C++, Golang, Rust, R, JavaScript, Dart, SQL
 
 ### Tools  
-**React.js**, **Flask**, **Node.js**, **Kepler.gl**, **CUDA**, **MPI**, **LangChain**,  
-**SciKit-Learn**, **TensorFlow**, **PyTorch**, **Pandas**, **Supabase**, **Firebase**,  
-**Pinecone**, **ChromaDB**, **AWS (S3, RDS, SageMaker)**, **MySQL**, **PostgreSQL**,  
-**Git**, **Docker**
+React.js, Flask, Node.js, Kepler.gl, CUDA, MPI, LangChain, SciKit-Learn, TensorFlow, PyTorch, Pandas, Supabase, Firebase,  
+Pinecone, ChromaDB, AWS (S3, RDS, SageMaker), MySQL, PostgreSQL, Git, Docker
