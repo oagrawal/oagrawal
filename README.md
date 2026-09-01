@@ -1,4 +1,4 @@
-# Hey! 👋  
+# Hey! 👋
 I’m **Om Agrawal**, a Computer Science student at **UT Austin**, finishing an Integrated Master’s (B.S. + M.S.) in 2027.
 
 This fall I’m joining **Canyon Code** as an **ML Systems Engineer Co-op**, working on their agent dependency graph, which batches and prioritizes model calls across multi-agent workflows.
@@ -15,10 +15,8 @@ Previously, I designed a [unified networking protocol](https://www.foreflight.co
 
 ## 🛠️ Skills
 
-### Programming Languages  
+### Programming Languages
 Python, Java, C, C++, Golang, Rust, R, JavaScript, Dart, SQL
 
-### Tools  
-PyTorch, TensorFlow, SciKit-Learn, Pandas, CUDA, MPI, vLLM, Ray, LangGraph, LangChain, Docker, Git,  
-React.js, Flask, Node.js, Kepler.gl, Supabase, Firebase, Pinecone, ChromaDB,  
-AWS (S3, RDS, SageMaker, Bedrock), MySQL, PostgreSQL
+### Tools
+PyTorch, TensorFlow, SciKit-Learn, Pandas, CUDA, MPI, vLLM, Ray, LangGraph, LangChain, Docker, Git, React.js, Flask, Node.js, Kepler.gl, Supabase, Firebase, Pinecone, ChromaDB, AWS (S3, RDS, SageMaker, Bedrock), MySQL, PostgreSQL
